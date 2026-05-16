@@ -3,7 +3,7 @@
 Desarrolladora Full Stack, interesada en Inteligencia Artificial y Machine Learning, enfocada en aprender sobre tecnologías avanzadas e innovación digital.
 
 ## Sobre mi 
-Desarrolladora Full Stack con experiencia en la creación de aplicaciones web con React, JavaScript, Python, Flask y SQL. Cuento con experiencia en gestión de procesos y manejo de grandes volúmenes de información, lo que me ha permitido desarrollar una sólida capacidad analítica y de organización.
+Desarrolladora Full Stack apasionada por la tecnología, la inteligencia artificial y el desarrollo de soluciones digitales enfocadas en el bienestar y la innovación.  Disfruto creando aplicaciones web con React, JavaScript, Python y Flask, aprendiendo constantemente nuevas tecnologías y desarrollando proyectos que combinan funcionalidad, diseño y experiencia de usuario. 
 
 
 ## Tecnologias
