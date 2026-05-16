@@ -22,6 +22,7 @@ Desarrolladora Full Stack apasionada por la tecnología, la inteligencia artific
 
 He desarrollado una plataforma web enfocada en fitness, bienestar y alimentación, ayudando a crear hábitos saludables de forma práctica y personalizada. Construí el front-end con React, JavaScript, HTML5 y CSS3, implementando interfaces responsive y componentes reutilizables. Integré y consumí APIs REST y GROQ API, además de desarrollar funcionalidades CRUD y autenticación mediante JWT. Implementé el cálculo de IMC, el seguimiento de objetivos y la integración de mapas y geolocalización. También realicé la conexión entre el frontend y el backend con navegación interactiva.
 
+
 ## Conecta Conmigo 
 - Linkedin: www.linkedin.com/in/genesis-falcon-urbina-441273193
 
