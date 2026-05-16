@@ -14,7 +14,7 @@ Desarrolladora Full Stack con experiencia en la creación de aplicaciones web co
 ## Proyecto Destecado
 
 <p align="left">
-<img src="https://github.com/user-attachments/assets/6f751bc6-7cf7-46f2-a7aa-60356580e0c9"/>
+  <img src="https://github.com/user-attachments/assets/6f751bc6-7cf7-46f2-a7aa-60356580e0c9" width="120" height="120"/>
 </p>
 
 
