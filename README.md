@@ -1,4 +1,4 @@
-#Hola, soy Génesis Falcón 🤚🏼
+# Hola, soy Génesis Falcón 🤚🏼
 
 Desarrolladora Full Stack, interesada en Inteligencia Artificial y Machine Learning, enfocada en aprender sobre tecnologías avanzadas e innovación digital.
 
@@ -13,7 +13,10 @@ Desarrolladora Full Stack con experiencia en la creación de aplicaciones web co
 
 ## Proyecto Destecado
 
-<img width="150" height="150" alt="Imagen 16-5-26 a las 14 21" src="https://github.com/user-attachments/assets/6f751bc6-7cf7-46f2-a7aa-60356580e0c9" />
+<p align="left">
+<img src="https://github.com/user-attachments/assets/6f751bc6-7cf7-46f2-a7aa-60356580e0c9"/>
+</p>
+
 
 ### VITTA
 
