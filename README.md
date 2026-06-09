@@ -14,11 +14,10 @@ Vivo en un proceso de aprendizaje continuo en un sector tan apasionante y cambia
 </p>
 
 ## Proyectos Destecados
-
 <p align="left">
-  <img src="https://github.com/user-attachments/assets/6f751bc6-7cf7-46f2-a7aa-60356580e0c9" height="120" alt="vitta"/>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://github.com/user-attachments/assets/15557d49-20c6-4216-be9e-18a1fdaf0edf" height="120" alt="florencia"/>
+  <img src="https://github.com/user-attachments/assets/6f751bc6-7cf7-46f2-a7aa-60356580e0c9" height="100" width="150" alt="vitta"/>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://github.com/user-attachments/assets/15557d49-20c6-4216-be9e-18a1fdaf0edf" height="100" width="150" alt="florencia"/>
 </p>
 
 ### VITTA
@@ -27,7 +26,9 @@ He desarrollado una plataforma web enfocada en fitness, bienestar y alimentació
 
 ## FLORENCIA — En desarrollo activo
 
-La mayoría de las aplicaciones de moda te enseñan tendencias genéricas y estáticas. Florencia no: Florencia te conoce. Es una asistente de moda personal en toda regla, impulsada por Inteligencia Artificial, diseñada para entenderte a fondo. Analiza en detalle tu colorimetría, tipo de cuerpo, estilo y presupuesto para construir un perfil de moda único y a tu medida. A partir de ahí, cada recomendación que te ofrece tiene un porqué real y personalizado. No es un catálogo automatizado; es una asesora experta que te acompaña, te inspira y evoluciona contigo en cada decisión de tu armario.
+La mayoría de las aplicaciones de moda te enseñan tendencias genéricas y estáticas. Este proyecto nace con una filosofía totalmente diferente: ser una asistente de moda personal en toda regla, impulsada por Inteligencia Artificial y diseñada para entenderte a fondo. Analiza en detalle tu colorimetría, tipo de cuerpo, estilo y presupuesto para construir un perfil único a tu medida. A partir de ahí, cada recomendación que te ofrece tiene un porqué real y personalizado. No es un catálogo automatizado; es una asesora experta que te acompaña, te inspira y evoluciona contigo en cada decisión de tu armario.
+
+
 
 ## Conecta Conmigo 
 - Linkedin: www.linkedin.com/in/genesis-falcon-urbina-441273193
