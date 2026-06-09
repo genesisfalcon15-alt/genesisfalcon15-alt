@@ -8,7 +8,9 @@ Actualmente desarrollo Florencia, un asistente de moda personal impulsado por IA
 Vivo en un proceso de aprendizaje continuo en un sector tan apasionante y cambiante como la inteligencia artificial y eso, lejos de asustarme, me motiva cada día.
 
 
+
 ## Tecnologias
+
 <p align="left">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,python,flask,git,github,vscode" />
 </p>
