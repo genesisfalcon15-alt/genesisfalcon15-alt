@@ -20,6 +20,12 @@ Vivo en un proceso de aprendizaje continuo en un sector tan apasionante y cambia
 </p>
 
 
+<p align="left">
+  <img src="<img width="1536" height="1024" alt="florencia" src="https://github.com/user-attachments/assets/15557d49-20c6-4216-be9e-18a1fdaf0edf" />
+" width="120" height="120"/>
+</p>
+
+
 ### VITTA
 
 He desarrollado una plataforma web enfocada en fitness, bienestar y alimentación, ayudando a crear hábitos saludables de forma práctica y personalizada. Construí el front-end con React, JavaScript, HTML5 y CSS3, implementando interfaces responsive y componentes reutilizables. Integré y consumí APIs REST y GROQ API, además de desarrollar funcionalidades CRUD y autenticación mediante JWT. Implementé el cálculo de IMC, el seguimiento de objetivos y la integración de mapas y geolocalización. También realicé la conexión entre el frontend y el backend con navegación interactiva.
